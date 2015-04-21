@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "beginner_tutorials_please")
+set(beginner_tutorials_please_MAINTAINER "lunixchewbahka <lunixchewbahka@todo.todo>")
+set(beginner_tutorials_please_DEPRECATED "")
+set(beginner_tutorials_please_VERSION "0.0.0")
+set(beginner_tutorials_please_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(beginner_tutorials_please_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(beginner_tutorials_please_BUILDTOOL_DEPENDS "catkin")
